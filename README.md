@@ -4,7 +4,7 @@
 - [Author Details](#author-details)
 - [Projects](#tasks)
     - [0. 0x00. Python - Variable Annotations](#0)
-    - [1. 0x01. Python - Async](#2)
+    - [1. 0x01. Python - Async](#1)
     - [2. ](#2)
     
 ---
