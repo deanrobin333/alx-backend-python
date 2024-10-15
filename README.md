@@ -5,7 +5,8 @@
 - [Projects](#tasks)
     - [0. 0x00. Python - Variable Annotations](#0)
     - [1. 0x01. Python - Async](#1)
-    - [2. ](#2)
+    - [2. 0x02. Python - Async Comprehension](#2)
+    - [3. ](#3)
     
 ---
 ## Author Details
@@ -33,7 +34,15 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-### [2. ](./)
+### [2. 0x02. Python - Async Comprehension](./0x02-python_async_comprehension)
+- How to write an asynchronous generator
+- How to use async comprehensions
+- How to type-annotate generators
+
+---
+#### 3
+###### [Table of Contents](#table-of-contents)
+### [3. ](./)
 
 ---
 
