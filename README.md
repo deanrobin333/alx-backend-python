@@ -7,6 +7,7 @@
     - [1. 0x01. Python - Async](#1)
     - [2. 0x02. Python - Async Comprehension](#2)
     - [3. ](#3)
+    - [4. ](#4)
     
 ---
 ## Author Details
@@ -42,7 +43,14 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-### [3. ](./)
+### [3. ](./0x03-Unittests_and_integration_tests)
+- The difference between unit and integration tests.
+- Common testing patterns such as mocking, parametrizations and fixtures
+
+---
+#### 4
+###### [Table of Contents](#table-of-contents)
+### [4. ](./)
 
 ---
 
