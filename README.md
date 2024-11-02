@@ -6,7 +6,7 @@
     - [0. 0x00. Python - Variable Annotations](#0)
     - [1. 0x01. Python - Async](#1)
     - [2. 0x02. Python - Async Comprehension](#2)
-    - [3. ](#3)
+    - [3. 0x03. Unittests and Integration Tests](#3)
     - [4. ](#4)
     
 ---
@@ -43,7 +43,7 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-### [3. ](./0x03-Unittests_and_integration_tests)
+### [3. 0x03. Unittests and Integration Tests](./0x03-Unittests_and_integration_tests)
 - The difference between unit and integration tests.
 - Common testing patterns such as mocking, parametrizations and fixtures
 
