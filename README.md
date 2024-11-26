@@ -47,7 +47,7 @@
 - The difference between unit and integration tests.
 - Common testing patterns such as mocking, parametrizations and fixtures
 
----
+
 #### 4
 ###### [Table of Contents](#table-of-contents)
 ### [4. ](./)
